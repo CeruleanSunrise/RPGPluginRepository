@@ -1,0 +1,7 @@
+name: SunriseRPG
+
+main: sunrise.main.RPGPlugin
+
+version: 1.0
+
+commands:
